@@ -15,6 +15,7 @@ The core functionality of this package includes:
 
 <img src="https://github.com/junwei-lu/CombInference/tree/main/img/combinference.png?raw=true"/>
 
+<img src="https://github.com/junwei-lu/CombInference/blob/main/img/combinference.png"/>
 
 ## Key Features
 
