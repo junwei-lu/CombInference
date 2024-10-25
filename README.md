@@ -13,6 +13,9 @@ The core functionality of this package includes:
 
 ![overview](https://github.com/junwei-lu/CombInference/tree/main/img/combinference.png)
 
+<img src="https://github.com/junwei-lu/CombInference/tree/main/img/combinference.png?raw=true"/>
+
+
 ## Key Features
 
 - **Graphical Feature Selection**: Implementing selection of graph features like hubs, cycles, and edges, based on single-edge p-values with FDR control.
