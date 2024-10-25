@@ -11,7 +11,7 @@ The core functionality of this package includes:
 2. Persistent homology analysis with uniform FDR (uFDR) control.
 3. Integration of the KHAN algorithm for homological feature selection.
 
-![overview](https://github.com/junwei-lu/CombInference/img/combinference.png)
+![overview](https://github.com/junwei-lu/CombInference/tree/main/img/combinference.png)
 
 ## Key Features
 
